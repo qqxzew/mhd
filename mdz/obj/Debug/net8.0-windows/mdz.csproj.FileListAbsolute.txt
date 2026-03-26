@@ -1,0 +1,14 @@
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.AssemblyInfoInputs.cache
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.AssemblyInfo.cs
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.csproj.CoreCompileInputs.cache
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\bin\Debug\net8.0-windows\mdz.exe
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\bin\Debug\net8.0-windows\mdz.deps.json
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\bin\Debug\net8.0-windows\mdz.runtimeconfig.json
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\bin\Debug\net8.0-windows\mdz.dll
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\bin\Debug\net8.0-windows\mdz.pdb
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.dll
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\refint\mdz.dll
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.pdb
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\mdz.genruntimeconfig.cache
+C:\Users\andrii.fedorov\RiderProjects\mdz\mdz\obj\Debug\net8.0-windows\ref\mdz.dll
